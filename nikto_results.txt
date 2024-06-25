@@ -1,0 +1,169 @@
+- Nikto v2.5.0/
++ Target Host: 192.168.2.177
++ Target Port: 80
++ GET Unable to connect to 192.168.2.177:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.107
++ Target Port: 80
++ GET Unable to connect to 192.168.2.107:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.108
++ Target Port: 80
++ GET Unable to connect to 192.168.2.108:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.109
++ Target Port: 80
++ GET Unable to connect to 192.168.2.109:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.110
++ Target Port: 80
++ GET Unable to connect to 192.168.2.110:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.105
++ Target Port: 80
++ GET Unable to connect to 192.168.2.105:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.106
++ Target Port: 80
++ GET Unable to connect to 192.168.2.106:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.107
++ Target Port: 80
++ GET Unable to connect to 192.168.2.107:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.108
++ Target Port: 80
++ GET Unable to connect to 192.168.2.108:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.109
++ Target Port: 80
++ GET Unable to connect to 192.168.2.109:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.110
++ Target Port: 80
++ GET Unable to connect to 192.168.2.110:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.10
++ Target Port: 80
++ GET Unable to connect to 192.168.2.10:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.11
++ Target Port: 80
++ GET Unable to connect to 192.168.2.11:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.12
++ Target Port: 80
++ GET Unable to connect to 192.168.2.12:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.13
++ Target Port: 80
++ GET Unable to connect to 192.168.2.13:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.14
++ Target Port: 80
++ GET Unable to connect to 192.168.2.14:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.15
++ Target Port: 80
++ GET Unable to connect to 192.168.2.15:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.16
++ Target Port: 80
++ GET Unable to connect to 192.168.2.16:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.103
++ Target Port: 80
++ GET Unable to connect to 192.168.2.103:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.104
++ Target Port: 80
++ GET Unable to connect to 192.168.2.104:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.105
++ Target Port: 80
++ GET Unable to connect to 192.168.2.105:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.106
++ Target Port: 80
++ GET Unable to connect to 192.168.2.106:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.107
++ Target Port: 80
++ GET Unable to connect to 192.168.2.107:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.108
++ Target Port: 80
++ GET Unable to connect to 192.168.2.108:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.109
++ Target Port: 80
++ GET Unable to connect to 192.168.2.109:80.
+- Nikto v2.5.0/
+- Nikto v2.5.0/
++ Target Host: 192.168.2.20
++ Target Port: 80
++ GET Unable to connect to 192.168.2.20:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.21
++ Target Port: 80
++ GET Unable to connect to 192.168.2.21:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.22
++ Target Port: 80
++ GET Unable to connect to 192.168.2.22:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.23
++ Target Port: 80
++ GET Unable to connect to 192.168.2.23:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.24
++ Target Port: 80
++ GET Unable to connect to 192.168.2.24:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.25
++ Target Port: 80
++ GET Unable to connect to 192.168.2.25:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.26
++ Target Port: 80
++ GET Unable to connect to 192.168.2.26:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.27
++ Target Port: 80
++ GET Unable to connect to 192.168.2.27:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.28
++ Target Port: 80
++ GET Unable to connect to 192.168.2.28:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.29
++ Target Port: 80
++ GET Unable to connect to 192.168.2.29:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.30
++ Target Port: 80
++ GET Unable to connect to 192.168.2.30:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.149
++ Target Port: 80
++ GET Unable to connect to 192.168.2.149:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.105
++ Target Port: 80
++ GET Unable to connect to 192.168.2.105:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.106
++ Target Port: 80
++ GET Unable to connect to 192.168.2.106:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.107
++ Target Port: 80
++ GET Unable to connect to 192.168.2.107:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.108
++ Target Port: 80
++ GET Unable to connect to 192.168.2.108:80.
+- Nikto v2.5.0/
++ Target Host: 192.168.2.109
++ Target Port: 80
++ GET Unable to connect to 192.168.2.109:80.
